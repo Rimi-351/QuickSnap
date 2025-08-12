@@ -40,6 +40,7 @@ namespace CardGames
 			SwinGame.ClearScreen(Color.White);
 
 			// Draw the top card
+//hello
 			Card top = myGame.TopCard;
 			if (top != null)
 			{
